@@ -6,9 +6,9 @@ description: An overview of our Hackathon submission
 
 ![](<../.gitbook/assets/Screen Shot 2022-08-16 at 8.16.35 AM.png>)
 
-Our Solana Summer Camp submission is a suite of open source tools we created to accelerate the Solana community's ability to build simple experiences around crypto, and enable real consumer utility within a native mobile application. We demo this toolset in our own use-case––the Rhove app––and showcase how we currently use this suite of tools.
+Our Solana Summer Camp submission is a suite of open source tools designed to accelerate the Solana community's ability to build simple experiences around crypto, and enable real consumer utility within a native mobile application. We demo this toolset in our own use-case––the Rhove app––and showcase how we currently use this suite of tools.
 
-![Submission Overview](<../.gitbook/assets/Screen Shot 2022-08-16 at 1.42.46 PM (1).png>)
+![Submission Overview](<../.gitbook/assets/Screen Shot 2022-08-16 at 7.21.42 PM.png>)
 
 We have created several open-source solutions to enable the Solana community to build upon these foundational primitives and broadly accelerate mainstream adoption.
 
@@ -22,3 +22,10 @@ Taken together, we have created a suite of primitives that the Solana community 
 
 These are the initial pieces and parts that, taken together, will enable on-chain identity to bridge between IRL and crypto-native experiences. It will allow traditional and web3 brands to deeply connect with their consumers through intuitive user experiences underpinned by NFT ownership and exclusivity. It will enable consumers to be AFK, on their mobile devices, transacting across the Solana ecosystem. Lastly, it enables any type of person to use Solana for uniquely crypto-enabled experiences **safely**.
 
+## Product Demo
+
+{% embed url="https://player.vimeo.com/video/740174434?h=0e7c409d59&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" %}
+
+{% embed url="https://docs.google.com/presentation/d/1-zs9z38WOmgLX0rW3b6Pd8Xm54X9-3rF7cG9msdpGTQ/edit?usp=sharing" %}
+Submission Deck
+{% endembed %}
