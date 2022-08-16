@@ -4,7 +4,7 @@ description: An overview of our Hackathon submission
 
 # 🔮 Overview
 
-![](<../.gitbook/assets/Screen Shot 2022-08-16 at 8.16.35 AM (1).png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-16 at 8.16.35 AM.png>)
 
 Our Solana Summer Camp submission is a suite of open source tools we created to accelerate the Solana community's ability to build simple experiences around crypto, and enable real consumer utility within a native mobile application. We demo this toolset in our own use-case––the Rhove app––and showcase how we currently use this suite of tools.
 
@@ -22,4 +22,3 @@ Taken together, we have created a suite of primitives that the Solana community 
 
 These are the initial pieces and parts that, taken together, will enable on-chain identity to bridge between IRL and crypto-native experiences. It will allow traditional and web3 brands to deeply connect with their consumers through intuitive user experiences underpinned by NFT ownership and exclusivity. It will enable consumers to be AFK, on their mobile devices, transacting across the Solana ecosystem. Lastly, it enables any type of person to use Solana for uniquely crypto-enabled experiences **safely**.
 
-[https://docs.google.com/presentation/d/1-zs9z38WOmgLX0rW3b6Pd8Xm54X9-3rF7cG9msdpGTQ/edit#slide=id.g14572e363dc\_0\_255](https://docs.google.com/presentation/d/1-zs9z38WOmgLX0rW3b6Pd8Xm54X9-3rF7cG9msdpGTQ/edit#slide=id.g14572e363dc\_0\_255)

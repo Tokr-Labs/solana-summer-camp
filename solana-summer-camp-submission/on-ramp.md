@@ -33,3 +33,7 @@ We worked directly with the Web3Auth team to make wallet creation for the[ Solan
 ## What’s Next? <a href="#cee5" id="cee5"></a>
 
 We can’t wait to onboard a million people to Solana in the next year, not only enabling them to invest in real-world assets but to do so with non-custodial solutions.
+
+
+
+{% embed url="https://github.com/torusresearch/torus-utils-swift/pull/25" %}
