@@ -1,8 +1,8 @@
----
-description: Real Estate Investing for Everyone
----
-
 # ⭐ Rhove
+
+Associated Repos:
+1. [Freehold](https://github.com/Tokr-Labs/freehold)
+2. [Phantom Connect](https://github.com/Tokr-Labs/phantom-connect)
 
 ## Background
 
