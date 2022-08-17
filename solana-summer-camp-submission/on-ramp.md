@@ -9,7 +9,6 @@ The Rhove app is now one of the most user-friendly on-ramps to the world of Sola
 * Mint NFT badges
 * Receive airdrops for actions taken in the app
 * Access exclusive token-gated investing experiences
-* (Insert succinct explanation of solflare pfp)
 * Fund their Rhove account with crypto (coming soon)
 
 ## How does it work? <a href="#3773" id="3773"></a>
