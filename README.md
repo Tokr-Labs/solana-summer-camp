@@ -13,7 +13,7 @@ We were[ recently announced as one of the winners of Solana's Riptide hackathon]
 
 At inception, we chose to tackle our use-case first and then build an open protocol around it. It is critical first to solve the business and compliance challenges that are barriers to entry in this market. Then, after solving those problems, we are integrating our protocol and exploring creative web3 experiences that don’t yet exist in the market.
 
-![Tokr Labs Roadmap](<.gitbook/assets/Screen Shot 2022-08-15 at 9.06.00 AM.png>)
+![](<.gitbook/assets/Screen Shot 2022-08-18 at 4.58.50 PM.png>)
 
 This Summer we launched [Rhove](https://rhove.com), our beachhead product after [receiving SEC qualification in May](https://www.sec.gov/Archives/edgar/data/0001883678/999999999422000179/xslQUALIFX01/primary\_doc.xml). We have solved all compliance challenges in granting retail investors access to invest in individual commercial real estate assets.
 
